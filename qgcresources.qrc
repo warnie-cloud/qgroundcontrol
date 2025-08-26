@@ -39,6 +39,9 @@
         <file alias="PowerButton.svg">resources/PowerButton.svg</file>
         <file alias="QGCLogoBlack.svg">resources/QGCLogoBlack.svg</file>
         <file alias="QGCLogoFull.svg">resources/QGCLogoFull.svg</file>
+        <!-- 添加新的工具栏图标 -->
+        <file alias="QGCLogoBar.svg">resources/QGCLogoBar.svg</file>
+        <!-- 添加新的工具栏图标 -->
         <file alias="QGCLogoWhite.svg">resources/QGCLogoWhite.svg</file>
         <file alias="QGCLogoArrow.svg">resources/QGCLogoArrow.svg</file>
         <file alias="QGroundControlConnect.svg">resources/QGroundControlConnect.svg</file>
@@ -61,7 +64,6 @@
         <file alias="GripperRelease.svg">resources/GripperRelease.svg</file>
         <file alias="GripperGrab.svg">resources/GripperGrab.svg</file>
         <file alias="qgroundcontrol.ico">resources/icons/qgroundcontrol.ico</file>
-         <!-- 添加uvv图标 -->
     </qresource>
     <qresource prefix="/res/firmware">
         <file alias="3drradio.png">resources/firmware/3drradio.png</file>
