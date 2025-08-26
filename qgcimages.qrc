@@ -185,6 +185,9 @@
         <file alias="Signal40.svg">src/UI/toolbar/Images/Signal40.svg</file>
         <file alias="Signal60.svg">src/UI/toolbar/Images/Signal60.svg</file>
         <file alias="Signal80.svg">src/UI/toolbar/Images/Signal80.svg</file>
+        <!-- 添加更多图片文件 -->
+        <file alias="ucc.svg">src/UI/toolbar/Images/ucc.svg</file>
+        <!-- 中间添加的为软件图标 -->
         <file alias="StationMode.svg">src/AutoPilotPlugins/Common/Images/StationMode.svg</file>
         <file alias="SubFrameComponentIcon.png">src/AutoPilotPlugins/APM/Images/SubFrameComponentIcon.png</file>
         <file alias="ForwardingSupportIcon.svg">src/AutoPilotPlugins/APM/Images/ForwardingSupportIcon.svg</file>
@@ -214,5 +217,6 @@
         <file alias="Yield.svg">src/UI/toolbar/Images/Yield.svg</file>
         <file alias="ZoomMinus.svg">src/FlightMap/Images/ZoomMinus.svg</file>
         <file alias="ZoomPlus.svg">src/FlightMap/Images/ZoomPlus.svg</file>
+        
     </qresource>
 </RCC>
